@@ -5,7 +5,7 @@ I could not find a centralised list of all community shelters in Quebec. However
 
 For each shelter, I try to list the following:
 
- - <name> - <capacity> - <price per night per person> - <location(optional)> - <access> - <opening period>
+ - [name] - [capacity] - [price per night per person] - [location(optional)] - [access from previous shelter] - [opening period]
 
 ## Sepaq
 
@@ -93,8 +93,8 @@ This list of shelters along the trans-Canada trail in Quebec is definitely incom
 
 [mata]: http://www.parcsregionaux.org/parcs-regionaux/parcs/sentier-national/
 [mata-s]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/TABLEAU-DES-SENTIERS.pdf
-[mata-s-map-1]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_swaggin_boule_5_sept_201211.pdf
-[mata-s-map-2]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_perces_brumes_6_nov_20122.pdf
-[mata-s-map-3]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_contreforts_4_nov_20121.pdf
+[mata-s-map1]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_swaggin_boule_5_sept_201211.pdf
+[mata-s-map2]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_perces_brumes_6_nov_20122.pdf
+[mata-s-map3]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_contreforts_4_nov_20121.pdf
 
 [ouareau-s-map]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/carte_fora_t_ouareau1.pdf
