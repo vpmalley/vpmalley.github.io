@@ -1,7 +1,7 @@
 
 Shelters in Quebec, Canada, along the trans-Canada trail.
 
-I could not find a centralised list of all community shelters in Quebec. However, I could list some organisations that manage shelters and list some of those along [a small portion of the Trans-Canada trail (sentier national in Quebec)][mata-s]. I list them in the order West-East.
+I could not find a centralised list of all community shelters in Quebec. However, I could list some organisations that manage shelters and list some of those along [a small portion of the Trans-Canada trail (sentier national in Quebec)][mata-s], from Mont-Tremblant to . I list them in the order West-East.
 
 For each shelter, I try to list the following:
 
@@ -9,9 +9,9 @@ For each shelter, I try to list the following:
 
 ## Sepaq
 
-The [Sepaq][sepaq] manages many provincial parks (called national parks) and the trans-Canada trail crosses them in multiple places. Here is a list of the shelters the Sepaq operates, in its parks of Fjord-du-Saguenay, Gasspésie, Grands-Jardins, Mont-Mégantic, Mont-Orford, Mont-Tremblant, Monts-Valin and Yamaska.
+The [Sepaq][sepaq] manages many provincial parks (called national parks) and the trans-Canada trail crosses them in multiple places. The Sepaq has shelters in its parks of Fjord-du-Saguenay, Gaspésie, Grands-Jardins, Mont-Mégantic, Mont-Orford, Mont-Tremblant, Monts-Valin and Yamaska.
 
-in Mont-Tremblant national park
+### in Mont-Tremblant national park
 
 - Lac-Ernie - 18 people - ~25$ - access from Lac Monroe Park center : ~13km - open May-March
 - Lac-des-Sables - 18 people - ~25$ - access from Lac-Ernie : 9.5km - open May-March
@@ -64,8 +64,9 @@ The trans-Canada trail continues on several successive trails (Ours, Matawinie, 
 
 A second shelter managed by the FQMarche is at the end of Misitkush trail:
 
-- [Grand-Masti][fqm-s-gm] - 6 people - 10-15$ - near Morin Creek - [parking in ZEC des Nymphes : ~14km through Nymphes and Mistikush trails][fqm-s-gm-map], [~15km along Cheriore trail to a parking near Petit William shelter][fqm-s-gm-map1] - open in summer (May 17 to Sep 1st)
+- [Grand-Masti][fqm-s-gm] - 6 people - 10-15$ - near Morin Creek - [parking in ZEC des Nymphes : ~14km through Nymphes and Mistikush trails][fqm-s-gm-map], [~15km along Cheriore trail to a parking near Petit William cabin (not bookable for only one person)][fqm-s-gm-map1] - open in summer (May 17 to Sep 1st)
 
+Then the trans-Canada trail arrives in the [reserve Mastigouche][masti-map], with no shelter open to single-person reservation.
 
 
 
@@ -98,3 +99,4 @@ This list of shelters along the trans-Canada trail in Quebec is definitely incom
 [mata-s-map3]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/8x14_sn_contreforts_4_nov_20121.pdf
 
 [ouareau-s-map]: http://www.parcsregionaux.org/wp-content/uploads/2013/06/carte_fora_t_ouareau1.pdf
+[masti-map]: http://www.sepaq.com/resources/docs/rf/mas/mas_carte_generale.pdf
