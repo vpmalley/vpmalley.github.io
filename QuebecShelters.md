@@ -1,7 +1,7 @@
 
 Shelters in Quebec, Canada, along the trans-Canada trail.
 
-I could not find a centralised list of all community shelters in Quebec. However, I could list some organisations that manage shelters and list some of those along [a small portion of the Trans-Canada trail (sentier national in Quebec)][mata-s], from Mont-Tremblant to the reserve Mastigouche. I list them in the order West-East.
+I could not find a centralised list of all community shelters in Quebec. However, I could list some organisations that manage shelters and list some of those along [a small portion of the Trans-Canada trail (Sentier National in Quebec)][mata-s], from Mont-Tremblant to the reserve Mastigouche. I list them in the order West-East.
 
 For each shelter, I try to list the following:
 
@@ -9,7 +9,7 @@ For each shelter, I try to list the following:
 
 ## Sepaq
 
-The [Sepaq][sepaq] manages many provincial parks (called national parks) and the trans-Canada trail crosses them in multiple places. The Sepaq has shelters in its parks of Fjord-du-Saguenay, Gaspésie, Grands-Jardins, Mont-Mégantic, Mont-Orford, Mont-Tremblant, Monts-Valin and Yamaska.
+The [Sepaq][sepaq] manages many provincial parks (called national parks) and the Trans-Canada trail crosses them in multiple places. The Sepaq operates shelters all over Quebec in its parks of Fjord-du-Saguenay, Gaspésie, Grands-Jardins, Mont-Mégantic, Mont-Orford, Mont-Tremblant, Monts-Valin and Yamaska.
 
 ### in Mont-Tremblant national park
 
@@ -18,7 +18,7 @@ The [Sepaq][sepaq] manages many provincial parks (called national parks) and the
 - Le Lariou - 2 people - ~25$ - access from Lac-des-Sables : ~10km - open May-March
 - Le Geai-Bleu - 4 people - ~25$ - access from Le Lariou : ~5km, from La Pimbinia Park entrance : few km - open May-March
 
-This is an alternative way to link Mont-Tremblant and St-Donnat, the trans-Canada trail follows the Intercentre trail (see below).
+This is an alternative way to link Mont-Tremblant and St-Donnat, the Trans-Canada trail follows the Intercentre trail (see below).
 
 ## Intercentre
 
@@ -31,11 +31,11 @@ From the chemin Regimbald, it is possible to reach highway 329 and from there fo
 
 ## FQMarche (Quebec Federation of Hiking)
 
-The [FQMarche][fqm] manages two shelters, both along the trans-Canada trail, one in the area of Mont-Ouareau:
+The [FQMarche][fqm] manages two shelters, both along the Trans-Canada trail, one in the area of Mont-Ouareau:
 
 - [Paul Perreault][fqm-s-pp] - 12 people - 10-15$ - near Lac Lemieux - [hwy 329 : 4-6km, hwy 125 : 8.5km][fqm-s-pp-map] - open year-round
 
-The trans-Canada trail is discontinued along the highway 125, it starts farther on the Massif trail in the regional park of the Ouareau forest.
+The Trans-Canada trail is discontinued along the highway 125, it starts farther on the Massif trail in the regional park of the Ouareau forest.
 
 ## Parc Régional de la Forêt Ouareau
 
@@ -63,22 +63,22 @@ The trans-Canada trail continues on several successive trails (Ours, Matawinie, 
 
 ## FQMarche (Quebec Federation of Hiking)
 
-A second shelter managed by the FQMarche is at the end of Misitkush trail:
+A second shelter managed by the FQMarche is at the end of Mistikush trail:
 
 - [Grand-Masti][fqm-s-gm] - 6 people - 10-15$ - near Morin Creek - [parking in ZEC des Nymphes : ~14km through Nymphes and Mistikush trails][fqm-s-gm-map], [~15km along Cheriore trail to a parking near Petit William cabin (not bookable for only one person)][fqm-s-gm-map1] - open in summer (May 17 to Sep 1st)
 
-Then the trans-Canada trail arrives in the [reserve Mastigouche][masti-map], with no shelter open to single-person reservation.
+Then the Trans-Canada trail arrives in the [reserve Mastigouche][masti-map], with no shelter open to single-person reservation.
 
-\\
-\\
-\\
+<br>
+
+This list of shelters along the Trans-Canada trail in Quebec is definitely incomplete as the trail is particularly long (1100km) but I hope to enrich it with time.
+
+<br>
 
 ## SIA-IAT (International Appalachian Trail)
 
-The [International Appalachian Trail][iat] group manages a set of shelters, not along the trans-Canada trail but still worth noting. They publish [a list of their shelters][iat-s]. I do not list them as they are not along the trans-Canada trail but along the Quebec section of the International Appalachian Trail.
+The [International Appalachian Trail][iat] group manages a set of shelters, not along the trans-Canada trail but still worth noting. They publish [a list of their shelters][iat-s]. I do not list them as they are not along the Trans-Canada trail but along the Quebec section of the International Appalachian Trail.
 
-
-This list of shelters along the trans-Canada trail in Quebec is definitely incomplete as the trail is particularly long (1100km) but I hope to enrich it with time.
 
 [sepaq]: http://www.sepaq.com/
 [iat]: http://www.sia-iat.com/en/accueil.html
