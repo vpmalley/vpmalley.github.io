@@ -1,7 +1,7 @@
 
 Shelters in Quebec, Canada, along the trans-Canada trail.
 
-I could not find a centralised list of all community shelters in Quebec. However, I could list some organisations that manage shelters and list some of those along [a small portion of the Trans-Canada trail (sentier national in Quebec)][mata-s], from Mont-Tremblant to . I list them in the order West-East.
+I could not find a centralised list of all community shelters in Quebec. However, I could list some organisations that manage shelters and list some of those along [a small portion of the Trans-Canada trail (sentier national in Quebec)][mata-s], from Mont-Tremblant to the reserve Mastigouche. I list them in the order West-East.
 
 For each shelter, I try to list the following:
 
@@ -20,21 +20,22 @@ The [Sepaq][sepaq] manages many provincial parks (called national parks) and the
 
 This is an alternative way to link Mont-Tremblant and St-Donnat, the trans-Canada trail follows the Intercentre trail (see below).
 
-## Intercentre OK
+## Intercentre
 
 The ["Intercentre" trail][icentre] links Lac-Laurier and St-Donat, and is a part of the trans-Canada trail.
 
 - [Le Nordet][icentre-s] - 8 people - 22$ - N 46° 14' 10", W 74° 23' 55.2" - [access from parking on the chemin du Nordet : 6.5km][icentre-t] (north of Lac-Supérieur) - open year-round
 - [Le Lac de l'Appel][icentre-s] - 8 people - 22$ - N 46° 15' 57.2", W 74° 21' 14.8" - [access from Le Nordet: 6.7km, to chemin Regimbald : ~15km][icentre-t] - open year-round
 
+From the chemin Regimbald, it is possible to reach highway 329 and from there follow the chemin Wall to continue on the Mont-Ouareau trail.
 
-## FQMarche (Quebec Federation of Hiking) OK
+## FQMarche (Quebec Federation of Hiking)
 
 The [FQMarche][fqm] manages two shelters, both along the trans-Canada trail, one in the area of Mont-Ouareau:
 
 - [Paul Perreault][fqm-s-pp] - 12 people - 10-15$ - near Lac Lemieux - [hwy 329 : 4-6km, hwy 125 : 8.5km][fqm-s-pp-map] - open year-round
 
-The trans-Canada trail is discontinued along the highway 125, it starts farther as the Massif trail in the regional park of the Ouareau forest.
+The trans-Canada trail is discontinued along the highway 125, it starts farther on the Massif trail in the regional park of the Ouareau forest.
 
 ## Parc Régional de la Forêt Ouareau
 
@@ -60,7 +61,7 @@ I could not find a mention of when the shelters are open, but it seems they are 
 
 The trans-Canada trail continues on several successive trails (Ours, Matawinie, Nymphes, Mistikush) without any appareent shelter on the way (see the [Cartes tab of Matawinie page for the trans-Canada trail for maps of these trails][mata]).
 
-## FQMarche (Quebec Federation of Hiking) OK
+## FQMarche (Quebec Federation of Hiking)
 
 A second shelter managed by the FQMarche is at the end of Misitkush trail:
 
@@ -68,14 +69,16 @@ A second shelter managed by the FQMarche is at the end of Misitkush trail:
 
 Then the trans-Canada trail arrives in the [reserve Mastigouche][masti-map], with no shelter open to single-person reservation.
 
+\\
+\\
+\\
+
+## SIA-IAT (International Appalachian Trail)
+
+The [International Appalachian Trail][iat] group manages a set of shelters, not along the trans-Canada trail but still worth noting. They publish [a list of their shelters][iat-s]. I do not list them as they are not along the trans-Canada trail but along the Quebec section of the International Appalachian Trail.
 
 
-## SIA-IAT (International Appalachian Trail) OK
-
-The [International Appalachian Trail][iat] group manages a set of shelters, not along the trans-Canada but still worth noting. They publish [a list of their shelters][iat-s]. I do not list them as they are not along the trans-Canada trail but along the Quebec section of the International Appalachian Trail.
-
-
-This list of shelters along the trans-Canada trail in Quebec is definitely incomplete as the trail is particularly long (1100km) but I hope to enrich it with the time.
+This list of shelters along the trans-Canada trail in Quebec is definitely incomplete as the trail is particularly long (1100km) but I hope to enrich it with time.
 
 [sepaq]: http://www.sepaq.com/
 [iat]: http://www.sia-iat.com/en/accueil.html
