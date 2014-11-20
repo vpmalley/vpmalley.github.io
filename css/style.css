@@ -470,6 +470,11 @@
 		.wrapper.style3 .button {
 			float: right;
 		}
+		
+	.wrapper.style4 {
+		padding: 1em 20em;
+		text-align: left;
+	}
 
 /* Header */
 
