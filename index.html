@@ -1,9 +1,7 @@
 ---
-title: hello everybody
+title: Explorations Boréales ... et autres aventures
 layout: default
 ---
-
-## Explorations Boréales ... et autres aventures
 
 Voyages et choses curieuses
 
@@ -17,8 +15,8 @@ Voyages et choses curieuses
   
     {% for post in site.posts %}
       <section class="4u">
-        <a href="{{ post.url }}" class="image feature">
-          <img src="{{ post.pic }}" alt="{{ post.picalt }}">
+        <a href="{{ post.url }}" class="image feature" >
+            <img src="{{ post.pic }}" alt="{{ post.picalt }}">
         <h2>{{ post.title }}</h2>
     		<span class="byline">{{ post.date | date_to_string }}</span>
 				<p>{{ post.excerpt }}</p>

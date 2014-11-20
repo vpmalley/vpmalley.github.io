@@ -22,7 +22,7 @@
 
 	a {
 		color: #3ac984;
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
@@ -171,6 +171,7 @@
 	.formerize-placeholder {
 		color: rgba(85, 85, 85, 0.5) !important;
 	}
+	
 
 /* Image */
 
@@ -191,12 +192,14 @@
 		.image.feature {
 			display: block;
 			margin: 0 0 2em 0;
+		  color: #555555;
 		}
 
 			.image.feature img {
 				display: block;
 				width: 100%;
 			}
+
 
 /* Icon */
 
@@ -471,7 +474,7 @@
 /* Header */
 
 	#header {
-		background: #333333 url("../images/pic01.jpg") no-repeat;
+		background: #333333 url("../images/welcome-banner.jpg") no-repeat;
 		background-size: cover;
 		color: #fff;
 		padding: 6em 0;

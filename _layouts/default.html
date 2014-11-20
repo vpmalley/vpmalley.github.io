@@ -37,13 +37,15 @@
 							<ul>
 								<li><a href="/index.html">Home</a></li>
 								<li>
-									<a href="">Dropdown</a>
+									<a href="">Things</a>
 									<ul>
 										<li><a href="#">Home</a></li>
 										<li>
-											<a href="">Other Homes</a>
+											<a href="">Blog</a>
 											<ul>
-												<li><a href="#">Home</a></li>
+											  {% for post in site.posts %}
+                          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+												{% endfor %}
 											</ul>
 										</li>
 									</ul>
@@ -70,6 +72,7 @@
 
 
 			<div class="wrapper style2">
+			  <h2>{{ page.title }}</h2>			
         {{ content | markdownify }}
 			</div>
 
@@ -84,12 +87,12 @@
 								<section>
 									<header class="major">
 										<h2>Pages - Contact</h2>
-										<span class="byline">Identities on the net</span>
+										<span class="byline">Identités sur le Net</span>
 									</header>
 									<ul class="contact">
 										<li>
 											<span class="mail">Email</span>
-											<span><a href="#">someone@untitled.tld</a></span>
+											<span><a href="mailto:vpmalley@gmail.com">vpmalley at gmail</a></span>
 										</li>
 										<li>
 											<span class="github">Github</span>
@@ -105,7 +108,7 @@
 										</li>
 										<li>
 											<span class="flickr">Flickr</span>
-											<span>lulu</span>
+											<span><a href="https://www.flickr.com/photos/107938954@N05">Vincent</a></span>
 										</li>
 									</ul>	
 								</section>
