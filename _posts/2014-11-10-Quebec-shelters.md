@@ -1,3 +1,10 @@
+---
+title: Quebec shelters
+layout: default
+excerpt : list of shelters in Quebec along the Trans-Canada trail.
+pic: https://farm4.staticflickr.com/3952/15359493409_499105be30_z_d.jpg
+picalt : Lake Monroe in the mist
+---
 
 Shelters in Quebec, Canada, along the trans-Canada trail.
 
