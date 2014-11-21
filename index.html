@@ -13,7 +13,7 @@ Voyages et choses curieuses
   </header>
   <div class="row no-collapse-1">
   
-    {% for post in site.posts %}
+    {% for post in site.tags.voyage %}
       <section class="4u">
         <a href="{{ post.url }}" class="image feature" >
             <img src="{{ post.pic }}" alt="{{ post.picalt }}">
@@ -27,6 +27,20 @@ Voyages et choses curieuses
 	</div>
 </section>
 
+<section class="container">
+  <header class="major">
+	  <h2>Tous les posts</h2>
+  </header>
+  <div class="row no-collapse-1">
+    {% for post in site.posts %}
+      <section class="4u">
+        <a href="{{ post.url }}" class="image feature" >
+        {{ post.title }} - {{ post.date | date_to_string }}
+				</a>
+      </section>
+    {% endfor %}
+  </div>    
+</section>
 
 <section class="container">
   <header class="major">
