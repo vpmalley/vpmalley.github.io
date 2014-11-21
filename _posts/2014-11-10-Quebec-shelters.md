@@ -13,7 +13,7 @@ I could not find a centralised list of all community shelters in Quebec. However
 
 For each shelter, I try to list the following:
 
- - [name] - [capacity] - [price per night per person] - [location(optional)] - [access from previous shelter] - [opening period]
+| [name] | [capacity] | [price per night per person] | [location(optional)] | [access from previous shelter] | [opening period] |
 
 ## Sepaq
 
@@ -21,10 +21,10 @@ The [Sepaq][sepaq] manages many provincial parks (called national parks) and the
 
 ### in Mont-Tremblant national park
 
-- Lac-Ernie - 18 people - ~25$ - access from Lac Monroe Park center : ~13km - open May-March
-- Lac-des-Sables - 18 people - ~25$ - access from Lac-Ernie : 9.5km - open May-March
-- Le Lariou - 2 people - ~25$ - access from Lac-des-Sables : ~10km - open May-March
-- Le Geai-Bleu - 4 people - ~25$ - access from Le Lariou : ~5km, from La Pimbinia Park entrance : few km - open May-March
+| Lac-Ernie | 18 people | ~25$ | access from Lac Monroe Park center : ~13km | open May-March |
+| Lac-des-Sables | 18 people | ~25$ | access from Lac-Ernie : 9.5km | open May-March |
+| Le Lariou | 2 people | ~25$ | access from Lac-des-Sables : ~10km | open May-March |
+| Le Geai-Bleu | 4 people | ~25$ | access from Le Lariou : ~5km, from La Pimbinia Park - entrance : few km | open May-March |
 
 This is an alternative way to link Mont-Tremblant and St-Donnat, the Trans-Canada trail follows the Intercentre trail (see below).
 
@@ -32,8 +32,8 @@ This is an alternative way to link Mont-Tremblant and St-Donnat, the Trans-Canad
 
 The ["Intercentre" trail][icentre] links Lac-Laurier and St-Donat, and is a part of the trans-Canada trail.
 
-- [Le Nordet][icentre-s] - 8 people - 22$ - N 46° 14' 10", W 74° 23' 55.2" - [access from parking on the chemin du Nordet : 6.5km][icentre-t] (north of Lac-Supérieur) - open year-round
-- [Le Lac de l'Appel][icentre-s] - 8 people - 22$ - N 46° 15' 57.2", W 74° 21' 14.8" - [access from Le Nordet: 6.7km, to chemin Regimbald : ~15km][icentre-t] - open year-round
+| [Le Nordet][icentre-s] | 8 people | 22$ | N 46° 14' 10", W 74° 23' 55.2" | [access from parking on the chemin du Nordet : 6.5km][icentre-t] (north of Lac-Supérieur) | open year-round |
+| [Le Lac de l'Appel][icentre-s] | 8 people | 22$ | N 46° 15' 57.2", W 74° 21' 14.8" | [access from Le Nordet: 6.7km, to chemin Regimbald : ~15km][icentre-t] - open year-round |
 
 From the chemin Regimbald, it is possible to reach highway 329 and from there follow the chemin Wall to continue on the Mont-Ouareau trail.
 
@@ -41,7 +41,7 @@ From the chemin Regimbald, it is possible to reach highway 329 and from there fo
 
 The [FQMarche][fqm] manages two shelters, both along the Trans-Canada trail, one in the area of Mont-Ouareau:
 
-- [Paul Perreault][fqm-s-pp] - 12 people - 10-15$ - near Lac Lemieux - [hwy 329 : 4-6km, hwy 125 : 8.5km][fqm-s-pp-map] - open year-round
+| [Paul Perreault][fqm-s-pp] | 12 people | 10-15$ | near Lac Lemieux | [hwy 329 : 4-6km, hwy 125 : 8.5km][fqm-s-pp-map] | open year-round |
 
 The Trans-Canada trail is discontinued along the highway 125, it starts farther on the Massif trail in the regional park of the Ouareau forest.
 
@@ -49,12 +49,12 @@ The Trans-Canada trail is discontinued along the highway 125, it starts farther 
 
 I could not find a mention of when the shelters are open, but it seems they are operated in summer and winter. They all appear on the [map of the Massif trail][ouareau-s-map]
 
- - Pelletier - 8 people - 30,25$ - near Lac à Pelletier - ~3km from hwy 125, near Notre-Dame de la Merci
- - Prud'homme - 8 people - 30,25$ - 2.5km from Pelletier shelter
- - La Loutre - 2 people - 30,25$ - 2km from trans-Canada trail
- - Corbeau - 6 people - 30,25$ - 2km from trans-Canada trail
- - Toussaint - 8 people - 30,25$ - 16.5km from Prud'homme shelter
- - des Capucines - 6 people - 30,25$ - 4km from Toussaint shelter
+| Pelletier | 8 people | 30,25$ | near Lac à Pelletier - ~3km from hwy 125, near Notre-Dame de la Merci |
+| Prud'homme | 8 people | 30,25$ | 2.5km from Pelletier shelter |
+| La Loutre | 2 people | 30,25$ | 2km from trans-Canada trail |
+| Corbeau | 6 people | 30,25$ | 2km from trans-Canada trail |
+| Toussaint | 8 people | 30,25$ | 16.5km from Prud'homme shelter |
+| des Capucines | 6 people | 30,25$ | 4km from Toussaint shelter |
 
 Then the trail continues without any shelter (but some lean-to) on the [Contreforts][mata-s-map3] and the Swaggin trails.
 
@@ -62,10 +62,10 @@ Then the trail continues without any shelter (but some lean-to) on the [Contrefo
 
 I could not find a mention of when the shelters are open, but it seems they are operated in summer and winter.
 
-- Swaggin - 20 people - 25$ - the previous shelter on the trans-Canada trail is on the Massif trail, 38km away (refuge des Capucines)
-- Lavigne - 8 people - 25$ - [6.5km from Swaggin shelter on La Boule trail][mata-s-map1]
-- Lac Boule - 8 people - 25$ - near Lac de la Boule - [10km from Lavigne shelter on La Boule trail][mata-s-map1]
-- Bazinet - 8 people - 25$ - near Lac des Iles - [~11km from Lac Boule shelter, on Perces-Brumes trail][mata-s-map2]
+| Swaggin | 20 people | 25$ | the previous shelter on the trans-Canada trail is on the Massif trail, 38km away (refuge des Capucines) |
+| Lavigne | 8 people | 25$ | [6.5km from Swaggin shelter on La Boule trail][mata-s-map1] |
+| Lac Boule | 8 people | 25$ | near Lac de la Boule - [10km from Lavigne shelter on La Boule  trail][mata-s-map1] |
+| Bazinet | 8 people | 25$ | near Lac des Iles - [~11km from Lac Boule shelter, on Perces-Brumes trail][mata-s-map2] |
 
 The trans-Canada trail continues on several successive trails (Ours, Matawinie, Nymphes, Mistikush) without any appareent shelter on the way (see the [Cartes tab of Matawinie page for the trans-Canada trail for maps of these trails][mata]).
 
@@ -73,7 +73,7 @@ The trans-Canada trail continues on several successive trails (Ours, Matawinie, 
 
 A second shelter managed by the FQMarche is at the end of Mistikush trail:
 
-- [Grand-Masti][fqm-s-gm] - 6 people - 10-15$ - near Morin Creek - [parking in ZEC des Nymphes : ~14km through Nymphes and Mistikush trails][fqm-s-gm-map], [~15km along Cheriore trail to a parking near Petit William cabin (not bookable for only one person)][fqm-s-gm-map1] - open in summer (May 17 to Sep 1st)
+| [Grand-Masti][fqm-s-gm] | 6 people | 10-15$ | near Morin Creek, [parking in ZEC des Nymphes : ~14km through Nymphes and Mistikush trails][fqm-s-gm-map], [~15km along Cheriore trail to a parking near Petit William cabin (not bookable for only one person)][fqm-s-gm-map1] | open in summer (May 17 to Sep 1st) |
 
 Then the Trans-Canada trail arrives in the [reserve Mastigouche][masti-map], with no shelter open to single-person reservation.
 

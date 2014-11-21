@@ -4,7 +4,7 @@ layout: post
 excerpt : Introduction de mes récits d'explorations du monde
 pic: http://photos.travellerspoint.com/698520/20140812_190959.jpg
 picalt : La Méditerranée depuis la terrasse d'un café, à Antalya, Turquie
-tags : voyage mméditerrannée fr
+tags : voyage méditerrannée fr
 ---
 Voilà.
 
@@ -18,4 +18,4 @@ Je crée ce blog en vue de mon prochain voyage au long cours au Canada, mais je 
 
 Et puis en fond musical un guitariste et un flûtiste. La mer et les montagnes pâles à l'horizon. Au premier plan les palmiers et les maisons éclairés par le soleil couchant.
 
- ![La Méditerranée depuis la terrasse d'un café, à Antalya, Turquie](http://photos.travellerspoint.com/698520/20140812_190959.jpg)
+!=http://photos.travellerspoint.com/698520/20140812_190959.jpg(La Méditerranée depuis la terrasse d'un café, à Antalya, Turquie)!
