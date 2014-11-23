@@ -1,9 +1,9 @@
 ---
-title: Triest, la porte ouverte sur l'Europe de l'Est
+title: Trieste, la porte ouverte sur l'Europe de l'Est
 layout: post
 excerpt : Un arrêt à Trieste, ouvrant au reste du voyage
-pic: https://farm4.staticflickr.com/3877/14760307377_03a2de3cb3_z_d.jpg
-picalt : Ventimiglia, la porte entre la France et l'Italie
+pic: https://farm6.staticflickr.com/5584/15261938501_2f80f1e98a_z_d.jpg
+picalt : Trieste, son port industriel et le château Miramare
 tags : voyage méditerrannée fr
 ---
 !=img=http://photos.travellerspoint.com/698520/IMG_6189.jpg!
@@ -17,7 +17,9 @@ La ville est dominée par un château, en haut de la vieille ville. Rien d'extra
 
 !=http://photos.travellerspoint.com/698520/IMG_6191.jpg!
 
-## Choses curieuses
+On va quitter Trieste en bus pour partir vers l'Est et entrer dans le coeur de notre voyage européen. Prochain arrêt: Dubrovnik, au bout de la Croatie.
+
+## Pratiques curieuses
 
 Côté pratiques culturelles, chose étonnante, une fois assis dans un café le long d'une rue piétonne à regarder la foule passer, le fait de servir un café allongé en tant que café expresso accompagné d'un petit pot d'eau chaude. Intéressant de pouvoir allonger son café autant que l'on veut.
 
