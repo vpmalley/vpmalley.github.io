@@ -1,7 +1,7 @@
 ---
 title: Perast, calme et isolé au bord de l'eau
 layout: post
-excerpt : Notre premier coup de coeur. Une perle bien cachée, à l'écart des touristiques Budva et Kotor
+excerpt : Une perle bien cachée, à l'écart des touristiques Budva et Kotor
 pic: https://farm6.staticflickr.com/5591/14984280375_5f2200f236_z_d.jpg
 picalt : le village de Perast, au bord de la baie de Kotor dans l'écrin des montagnes
 tags : voyage méditerrannée fr
