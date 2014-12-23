@@ -6,6 +6,8 @@ pic: https://farm4.staticflickr.com/3877/14760307377_03a2de3cb3_z_d.jpg
 picalt : Ventimiglia, la porte entre la France et l'Italie
 tags : voyage méditerrannée fr
 ---
+
+
 Nous voilà au départ de Ventimiglia et de notre épopée méditerranéenne. C'est parti pour trois semaines de dépaysement.
 A Ventimiglia on a quitté les bâtiments jaunes et d'autres couleurs chaudes, le bourg dominé par le clocher et les cafés qui se remplissent à 8h. Le marché était en effervescence.
 
