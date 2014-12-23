@@ -80,9 +80,12 @@
 	}
 
 	blockquote {
-		border-left: solid 0.5em #888888;
+		border-left: solid 1.5em #888888;
+		border-right: solid 1.5em #888888;
 		font-style: italic;
-		padding: 1em 0 1em 2em;
+		font-size: 18pt;
+		line-height: 1.75em;
+		padding: 2em 25em 2em 25em;
 	}
 
 	section.special, article.special {
