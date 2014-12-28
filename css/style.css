@@ -478,6 +478,10 @@
 		padding: 1em 20em;
 		text-align: left;
 	}
+	
+	.wrapper.style4 img {
+		max-width: 100%;
+	}
 
 /* Header */
 
