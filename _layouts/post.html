@@ -1,6 +1,7 @@
 ---
 layout : default
 ---
-<div class="wrapper style4">			
-  {{ content | markdownify | textilize }}
+<div class="wrapper style4">
+  <!-- do not frame image tags with paragraph tags-->
+  {{ content | textilize | replace: '<p><', '<' | replace: '></p>', '>' }}
 </div>

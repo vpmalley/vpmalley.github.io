@@ -7,6 +7,7 @@ picalt : La forteresse et le parc Kalamegdan, centre de Belgrade
 tags : voyage méditerrannée fr
 ---
 
+
 On passe maintenant 2 jours à Belgrade, en Serbie. La ville et le pays ont une histoire mouvementée, notamment liée à ses voisins à l'époque de la Yougoslavie.
 
 !=https://farm4.staticflickr.com/3941/15414477697_249fd15fed_z.jpg("La forteresse et le parc Kalamegdan, centre de Belgrade")!
@@ -14,7 +15,7 @@ On passe maintenant 2 jours à Belgrade, en Serbie. La ville et le pays ont une 
 On a suivi un tour de la ville très instructif. On notera la présence de mines anti-personnelles et autres explosifs a priori laissés par les nazis dans les souterrains de la ville que personne ne souhaite explorer de peur de sauter et surtout de faire sauter toute la ville. C'est pourquoi il n'y a aucun projet de métro à Belgrade, les sous-sols sont trop dangereux pour le moindre projet.
 Et puis on a eu un petit cours d'histoire sur Belgrade, la ville a subi pas mal de différents leaders qui ont chacun laissé une trace, certains bâtiments qui sont étrangement liés à un héritage franc-maçon.
 
-<blockquote>il n'y a aucun projet de métro à Belgrade, les sous-sols sont trop dangereux</blockquote>
+>il n'y a aucun projet de métro à Belgrade, les sous-sols sont trop dangereux
 
 On a appris des choses sur la Yougoslavie, je me souviens surtout de son rôle de non-aligné pendant la Guerre Froide, apparemment sans doute une manipulation de l'Ouest pour empêcher l'Est d'accéder à la mer tout en laissant la Yougoslavie garder la face et surtout le communisme.
 Il y eu l'arrivée au pouvoir de Milosevic en tant que représentant serbe de la Yougoslavie (il y a un représentant par communauté de la Yougoslavie) et chef d'état, normalement à ce rôle pendant 2 ans. Il a prolongé son règne et a réussi à prétexter la défense du peuple serbe pour justifier l'attaque de différents territoires. Et après, l'histoire de la Yougoslavie que l'on connaît, le génocide et l'intervention militaire de l'Europe.
