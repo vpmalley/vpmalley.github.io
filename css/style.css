@@ -15,7 +15,7 @@
 	body, input, select, textarea {
 		color: #555555;
 		font-family: 'Raleway', sans-serif;
-		font-size: 13pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 	}
@@ -83,9 +83,10 @@
 		border-left: solid 1.5em #888888;
 		border-right: solid 1.5em #888888;
 		font-style: italic;
-		font-size: 18pt;
+		font-size: 22pt;
 		line-height: 1.75em;
-		padding: 2em 0 2em;
+		padding: 2em 0;
+		text-align: center;
 	}
 
 	section.special, article.special {
@@ -474,13 +475,22 @@
 			float: right;
 		}
 		
+	.wrapper.style4 {
+		max-width: 100%;
+		line-height: 1.5em;
+		font-size: 15pt;
+	}
+	
 	.wrapper.style4 p {
-		padding: 1em 20em;
+		max-width: 100%;
+		padding: 1em 8em;
 		text-align: left;
 	}
 	
 	.wrapper.style4 img {
 		max-width: 100%;
+		max-height: 50em;
+		padding : 1em 0;
 	}
 
 /* Header */
