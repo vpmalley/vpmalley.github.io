@@ -36,7 +36,11 @@ Quittant Podgorica, le train longe une vallée charmante, encore plus appréciab
 
 Le Monténégro restera un coup de coeur pour ses paysages. On y retournerait volontiers avec plus de temps et sans doute une voiture pour plus de flexibilité et surtout pour accéder aux parcs nationaux. Même si les gens ne semblent pas être de grands conducteurs: on s'est retrouvé dans un bus de gens totalement sereins alors qu'en face, un camion conduit en pleine gauche et se rabat tranquillement peu avant un potentiel accident. 
 
+## Coin cuisine
+
 Culinairement, on n'a malheureusement pas goûté au vin du Monténégro mais on a profité de sa bière blonde pas chère (et pas mauvaise). J'ai goûté au [cevapi], ces saucisses de viande hachée, particulièrement grasses. J'espère goûter les bureks en Serbie, je crois que ces deux trucs se font dans toute la région.
+
+## La religion
 
 Religieusement, on a vu des églises "standards", à la même architecture qu'en Europe de l'Ouest, même si elles étaient probablement orthodoxes (il y avait souvent des icônes dedans). On a vu quelques autres églises orthodoxes, au dôme bleu et avec un clocher. On n'a vu aucune mosquée par contre.
 Une chose à laquelle je n'ai pas fait attention avant: les chauffeurs des bus accrochent une petite croix sur le pare-brise, témoins de l'omniprésence de la religion.

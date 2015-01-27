@@ -26,7 +26,7 @@ Les principaux points d'intérêt de la ville sont assez faciles d'accès à pie
 
 ## Choses curieuses
 
-### Habitudes culinaires des Serbes
+### Coin cuisine
 
 Commençons par les habitudes des Serbes. Tout d'abord on a eu beaucoup de mal à trouver des restaurants dans Belgrade. Les cafés et les bars sont présents à tous les coins de rue (littéralement), vides en pleine journée mais ils se remplissent vite en fin d'après-midi. Par contre très peu servent à manger, ou rien de plus sophistiqué qu'un sandwich jambon-fromage. Une fois un restaurant trouvé, le menu ne brille pas par son originalité. Les spécialités semblent limitées au cevapi et cevapcici (avec des accents sur certaines lettres), des saucisses faites de mélange de viande servies bien grasses telles quelles ou dans du pain. Dans l'ensemble, les serbes aiment visiblement beaucoup la viande. Le veau, porc ou poulet est facilement servi sous une forme assez banale, sans forcément une sauce ou un assaisonement particuliers. Elle est par contre toujours accompagnée d'un demi oignon coupé très fin, étrange tradition. Et du vinaigre est toujours disponible, parfois de l'huile aussi.
 

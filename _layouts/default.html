@@ -36,21 +36,16 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="/index.html">Home</a></li>
+								<li><a href="/index.html">Accueil</a></li>
 								<li>
-									<a href="">Things</a>
-									<ul>
-										<li><a href="#">Home</a></li>
-										<li>
-											<a href="">Blog</a>
+									<a href="">Récits</a>
 											<ul>
-											  {% for post in site.posts %}
+											  {% for post in site.tags.voyage %}
                           <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 												{% endfor %}
 											</ul>
-										</li>
-									</ul>
 								</li>
+								<li><a href="https://www.flickr.com/photos/107938954@N05">En images</a></li>
 							</ul>
 						</nav>
 
@@ -99,6 +94,7 @@
 											<span class="github">Github</span>
 											<span><a href="http://www.github.com/vpmalley">vpmalley</a></span>
 										</li>
+										<!--
 										<li>
 											<span class="linkedin">LinkedIn</span>
 											<span>lala</span>
@@ -107,6 +103,7 @@
 											<span class="stackoverflow">StackOverflow</span>
 											<span>lili</span>
 										</li>
+										-->
 										<li>
 											<span class="flickr">Flickr</span>
 											<span><a href="https://www.flickr.com/photos/107938954@N05">Vincent</a></span>
