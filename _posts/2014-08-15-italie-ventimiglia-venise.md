@@ -16,6 +16,8 @@ A Ventimiglia on a quitté les bâtiments jaunes et d'autres couleurs chaudes, l
 
 Après une longue sieste dans le train, [Milan][milan] s'est montrée sous un ciel couvert. La ville semble surtout constituée de gratte-ciel et autres bâtiments imposants. Une très courte balade nous a montré une grande présence des voitures, quelques tramways vintage et des bâtiments de 4-5 étages avec des balcons, avec des traces de pollution sur les murs. Au final, seule la gare apparaissait jolie avec ses halls au plafond sculpté.  On est de toute façon très vite reparti en direction de Venise cette fois-ci.
 
+> J'aime beaucoup cette ville piétonne, on aime s'y perdre
+
 On arrive à [Venise][venise] par un pont long de quelques kilomètres, seul lien avec le continent. La première chose que je remarque, c'est la hauteur de l'eau. Il y a souvent seulement un à deux mètres entre le niveau de l'eau et la terre. Et on voit parfois une marque fraiche de l'eau à moins d'un mètre sous le niveau du sol. Et la ville est si plate, ça donne un sentiment étrange.
 
 <iframe class="map" width='100%' height='600px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/vincetraveller.l1362j02/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoidmluY2V0cmF2ZWxsZXIiLCJhIjoiMkxNUmEyVSJ9.EgFX8zbKFkf-b8UJ2M5CHQ'></iframe>
@@ -24,6 +26,7 @@ Pour le reste, la couleur des bâtiments est jolie, du rouge ocre jusqu'au jaune
 
 !=https://farm6.staticflickr.com/5589/14746247378_e19dfd434f_z_d.jpg(Venice - une gondole sur le canal, depuis le pont des soupirs)! !=https://farm9.staticflickr.com/8600/16111468057_b12df4040e_z_d.jpg!
 
+> Sur la Piazza San Marco, l'espresso coûte la bagatelle de 5 euros
 
 Je m'attendais à ce que les bâtiments soient plus récents. En effet vu la popularité de la ville et le fait qu'elle ne grossisse plus, je pensais que le coût du terrain serait particulièrement élevé par rapport à leur rénovation ou reconstruction. Et du coup qu'ils soient mieux entretenus. Mais la plupart datent d'il y a quelques décennies, et beaucoup semblent résidentiels. Et pourtant il ne semble pas y avoir beaucoup d'activité sur l'île à part pour les touristes. On remarquait qu'il n'y a pas de cinéma, pas vraiment de supermarchés autres que des supérettes. Il y a pas mal de cafés ça et là quand même.
 

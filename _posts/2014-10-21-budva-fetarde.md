@@ -9,6 +9,8 @@ tags : voyage méditerrannée fr
 
 Première impression de [Budva][budva]: c'est kitsch. Le café de la gare routière ressemble à un bar de casino, avec néons à l'entrée de la gare routière. En marchant vers l'auberge, on entend une musique forte un peu plus loin, probablement un bar. On verra plus tard que c'est toute la ville qui vibre au son des bars et clubs, le soir.
 
+> La vieille ville est ceinturée par les tables de bars et cafés, elle devient un  bar géant la nuit
+
 Après avoir vu Budva la nuit, kitsch est un mot un peu faible. C'est simplement une ville de fêtards. Les nightclubs en plein air sont alignés le long de la côte. La vieille ville est ceinturée par les tables de bars et cafés, elle devient un  bar géant la nuit. A 23h la population est en tenue de soirée et investit les bars alors que les touristes "traditionnels" sont encore attablés aux endroits les moins bruyants.
 
 !=https://farm6.staticflickr.com/5603/15555552981_199b770f1d_k_d.jpg(vue de la vieille ville depuis un point de vue populaire)!
