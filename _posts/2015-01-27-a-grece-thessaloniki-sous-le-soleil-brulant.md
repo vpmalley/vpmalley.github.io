@@ -31,7 +31,7 @@ Une fois de retour sur la terre ferme, on a flâné à travers la ville en quêt
 Et on a goûté la cuisine grecque. On a commencé par une pita de [Gyros] dans un fast food. Tout est bon, la viande est bien cuite et épicée, la sauce excellente. Après avoir goûté à la viande cuisinée en Serbie qui n'a rien d'extraordinaire, les Grecs eux savent cuisiner la viande. A chaque repas on a ensuite pu vérifier que la viande est bonne, bien cuite, bien assaisonnée, accompagnée de sauces à base de yaourt grec. Pour terminer la journée on a choisi une assiette de Meze délicieuse, avec anchois, tartine de [tzatziki] et du fromage. De quoi se régaler dès le premier jour. 
 Au final ce fut une belle étape avant de partir pour Athènes.
 
-[Thessaloniki]: http://fr.wikipedia.org/wiki/Thessalonique "Thessaloniki est la deuxième ville de Grèce avec 350 000 habitants"
+[Thessalonique]: http://fr.wikipedia.org/wiki/Thessalonique "Thessaloniki est la deuxième ville de Grèce avec 350 000 habitants"
 [hagia-sophia]: http://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Sophie_de_Thessalonique "Église orthodoxe Sainte-Sophie"
 [tour-blanche]: http://fr.wikipedia.org/wiki/Tour_blanche_%28Thessalonique%29 "Symbole de Thessalonique"
 [Gyros]: http://fr.wikipedia.org/wiki/Gyros "le sandwich grec"

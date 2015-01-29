@@ -20,7 +20,7 @@ Rhodes est intéressante par les différentes influences qu'elle a subies. Grecq
 
 !=https://farm6.staticflickr.com/5613/15423111120_bb3f0373c6_z_d.jpg(le Palais des Grands Maîtres de l'ordre de St-Jean)! !=https://farm8.staticflickr.com/7546/15713399804_5b70f729ea_z_d.jpg(Mosquée et bains ottomans)!
 
-Il y a également plusieurs mosquées et des bains ottomans. La ville a été bien conservée mais est aussi devenue très touristique. On trouve pas mal de vendeurs d'éponges et autres fruits de la pêche.
+Il y a également plusieurs mosquées et des bains [ottomans]. La ville a été bien conservée mais est aussi devenue très touristique. On trouve pas mal de vendeurs d'éponges et autres fruits de la pêche.
 
 !=https://farm6.staticflickr.com/5614/15423115860_2b4f0e5885_k_d.jpg(fontaine parmi les rues de Rhodes)!
 
@@ -47,6 +47,7 @@ On s'est gavé de Gyros ici, c'est gras mais tellement bon avec du tzatziki. Il 
 [rhodes-town]: http://fr.wikipedia.org/wiki/Rhodes_%28ville%29 "Ville de 50 000 habitants dont la vieille ville est inscrite au Patrimoine Mondial de l'UNESCO"
 [palais]: http://fr.wikipedia.org/wiki/Palais_des_grands_ma%C3%AEtres_%28Rhodes%29 "Forteresse byzantine, le palais a été agrandi par l'Ordre de Saint-Jean"
 [ordre]: http://fr.wikipedia.org/wiki/Ordre_de_Saint-Jean_de_J%C3%A9rusalem "l'ordre date du XII ème siècle et à l'origine oeuvrait à la construction d'hôpitaux, d'où son nom parfois utilisé d'ordre hospitalier"
+[ottomans]: http://fr.wikipedia.org/wiki/Empire_ottoman "l'Empire Ottoman a occupé principalement l'Anatolie pendant plus de 6 siècles, avec une influence autour de la Méditerranée."
 [colosse]: http://fr.wikipedia.org/wiki/Colosse_de_Rhodes "le Colosse est l'une des 7 merveilles du monde antique"
 [Kos]: http://fr.wikipedia.org/wiki/Kos_%28Dod%C3%A9can%C3%A8se%29 "Ile du Dodécanèse de 30 000 habitants"
 [arbre]: https://fr.wikipedia.org/wiki/Arbre_d%27Hippocrate "Hippocrate aurait enseigné sous ce platane" 
