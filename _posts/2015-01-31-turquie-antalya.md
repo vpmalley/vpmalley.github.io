@@ -1,7 +1,7 @@
 ---
 title: Antalya
 layout: post
-excerpt : Arrêt 
+excerpt : Un peu de détente au bord de l'eau
 pic: https://farm6.staticflickr.com/5614/15617307872_b4fdf76261_z_d.jpg
 picalt : la baie d'Antalya
 tags : voyage méditerrannée fr
