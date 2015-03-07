@@ -49,7 +49,7 @@ Les pide (pita), fourrées à la viande ou légumes, en forme d'oeil et avec une
 Mon meilleur repas à Istanbul (dans le restaurant [Mitani]) fut de l'agneau avec des aubergines. Elles étaient fondantes, je pense que c'est une spécialité de si bien les préparer. Le plat fut excellent. Le service était très bon aussi.
 
 
-[Istanbul]: http://fr.wikivoyage.org/wiki/Istanbul "Plus grande ville de Turquie avec 14 millions d'habitants et deuxième plus grande d'Europe (après Moscou), c'est la capitale économique et culturelle de la Turquie"
+[Istanbul]: http://fr.wikipedia.org/wiki/Istanbul "Plus grande ville de Turquie avec 14 millions d'habitants et deuxième plus grande d'Europe (après Moscou), c'est la capitale économique et culturelle de la Turquie"
 [istanbul-wp]: http://fr.wikipedia.org/wiki/Istanbul "Plus grande ville de Turquie avec 14 millions d'habitants et deuxième plus grande d'Europe (après Moscou), c'est la capitale économique et culturelle de la Turquie"
 [hagiasophia]: http://fr.wikipedia.org/wiki/Sainte-Sophie_%28Constantinople%29 "L'église fut construite au Vième siècle, devenue une mosquée au Xvème siècle et est désormais un musée (désacralisé) depuis 1934."
 [bluemosque]: http://fr.wikipedia.org/wiki/Mosqu%C3%A9e_bleue "Construite au XVIIème siècle par le sultan Ahmet 1er, elle a été dimensionnée pour rivaliser avec la basilique Ste-Sophie"
@@ -61,4 +61,6 @@ Mon meilleur repas à Istanbul (dans le restaurant [Mitani]) fut de l'agneau ave
 [Mitani]: http://www.tripadvisor.ca/Restaurant_Review-g293974-d2055746-Reviews-Mitani_Cafe-Istanbul.html "page TripAdvisor du restaurant"
 [moussaka]: http://fr.wikipedia.org/wiki/Moussaka "plat d'aubergines et de viande hachée de mouton"
 [kofte]: http://fr.wikipedia.org/wiki/Kefta "les kofte ou kefta sont des boulettes de viande"
+
+
 

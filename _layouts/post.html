@@ -5,3 +5,15 @@ layout : default
   <!-- do not frame image tags with paragraph tags-->
   {{ content | textilize | replace: '<p><', '<' | replace: '></p>', '>' }}
 </div>
+
+
+<script>
+  $('.wrapper.style4 a').tooltip({ html: true, tooltipClass: "link-tooltip"}).embedly({
+    key: embedly_api_key,
+    display: function(elem, data){
+      $(this).tooltip({
+      content: '<h2>' + elem.title +'</h2>' + '<img src="' + elem.thumbnail_url + '"\/><br>' + elem.description, 
+      tooltipClass: "link-tooltip"});
+    }
+  });
+</script>
