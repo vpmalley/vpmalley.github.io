@@ -4,7 +4,7 @@ C'est parti pour 2 jours de randonnée loin de la civilisation. L'occasion de pr
 
 Sur le chemin du village, le brouillard est encore épais. Les bateaux sur le lac se laissent bercer et se réveillent embrumés.
 
-=https://farm4.static.flickr.com/3952/15359493409_499105be30.jpg!
+!=https://farm4.static.flickr.com/3952/15359493409_499105be30.jpg!
 
 Dans le parc le brouillard se dissipe pour laisser percer les rayons du soleil, seule une légère couverture protège le lac Monroe. Les feuilles sont belles, jaunes et rousses, à perte de vue. Le parc, à moins de 10 km du village, semble immense et les forêts s'étendent jusqu'à l'horizon.
 
