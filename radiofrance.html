@@ -1,0 +1,23 @@
+---
+title: Programmes de Radio-France
+layout: default
+---
+
+<section class="container">
+  <header class="major">
+	  <h2>Tous les programmes de Radio France</h2>
+		<span class="byline"></span>
+  </header>
+  <div class="row no-collapse-1">
+  
+    {% for post in site.tags.radiofrance %}
+      <section class="4u">
+        <a href="{{ post.url }}" class="image feature" >
+        <h2>{{ post.title }}</h2>
+        </a>
+      </section>
+    {% endfor %}
+    
+	</div>
+</section>
+
