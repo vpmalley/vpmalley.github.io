@@ -34,3 +34,7 @@
 			font-size: 1em;
 			margin: 0;
 		}
+
+	.wrapper.style4 p {
+		padding: 0em;
+	}
