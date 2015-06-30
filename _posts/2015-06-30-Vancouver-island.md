@@ -41,7 +41,7 @@ On part pour l'île Quadra. À peine débarqués, on admire la côte ponctuée d
 Une fois à terre on découvre une île plutôt déserte, on croisera seulement une poignée de voitures pendant les quelques heures que l'on y passe, sur l'unique route principale qui relie les différents coins de l'île. Enfin ce que l'on cherchait : je croyais en venant ici trouver une côte isolée, et Campbell River, là où on s'est arrêté pour camper, ressemble plus à une ville de banlieue avec sa zone marchande avec un magasin "superstore" et quelques autres grandes surfaces. 
 L'île Quadra est mignonne, offrant un beau point de vue depuis un phare vers la grosse île de Vancouver et ses sommets enneigés du parc Strathcona et surtout une très belle baie d'Heriot, départ du ferry vers l'île suivante de Cortes. La petite baie abritée accueille un petit port accessible par un ponton en bois, et quelques chalets sont éparpillés le long de la côte.
 
-!https://farm1.static.flickr.com/359/19225759205_3dc3b50e90.jpg(Heriot Bay marina)!
+!https://flic.kr/p/v7UddX(Heriot Bay marina)!
 
 En redescendant vers [Victoria](https://fr.wikipedia.org/wiki/Victoria), on fait quelques arrêts, notamment à [Cathedral Grove](https://fr.wikipedia.org/wiki/Cathedral Grove). On doit s'enfoncer un peu dans les terres en direction de Port Alberni, en dehors de la route principale de l'île. Il faut conduire entre deux montagnes abruptes puis dans la forêt dense pour se retrouver entourés de végétation à travers laquelle le soleil peine à percer. Une petite balade nous mène à quelques arbres plutôt impressionnants, larges et vieux.
 
