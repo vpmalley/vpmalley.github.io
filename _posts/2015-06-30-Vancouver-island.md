@@ -1,8 +1,10 @@
 ---
-title: 
-travelDate: 
-excerpt: 
-layout: 
+title: Vancouver Island
+excerpt : chalets en bord d'océan et plages de galets
+layout: post
+tags: voyage fr canada bc
+pic: https://farm4.static.flickr.com/3951/19037591560_7eb6febfbd.jpg
+picalt: Rêveries
 ---
 On traverse le [parc Stanley](https://fr.wikipedia.org/wiki/parc Stanley) en voiture cette fois-ci pour quitter Vancouver. On se dirige vers Horseshoe bay, point de départ du ferry en direction de [Nanaimo](https://fr.wikipedia.org/wiki/Nanaimo), sur l'île de Vancouver. Au passage, on note qu'une part non négligeable des baies nommées en anglais sont soit des "horseshoe bay" soit des "half-moon bay". C'est vrai qu'une baie a peu de formes différentes possibles, il faut faire preuve d'imagination si on ne veut pas se contenter de la comparer à un fer à cheval ou une demi-lune. 
 
