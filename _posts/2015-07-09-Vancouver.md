@@ -1,8 +1,8 @@
 ---
 title: 
+travelDate: 
 excerpt: 
 layout: 
-travelDate: 
 ---
 De Vancouver, depuis le train, on voit d'abord la skyline, beaucoup d'immeubles sont hauts, pour tasser la population dense.
 
