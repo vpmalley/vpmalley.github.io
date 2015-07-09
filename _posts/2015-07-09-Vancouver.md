@@ -1,8 +1,11 @@
 ---
-title: 
+title: D'un océan à l'autre
 travelDate: 
-excerpt: 
-layout: 
+excerpt: Vancouver, le paradis urbain au bord de l'océan 
+layout: post
+tags: voyage fr canada Vancouver 
+pic: https://farm1.static.flickr.com/332/18735648103_2bbe051335.jpg
+picalt: Vancouver marina
 ---
 De Vancouver, depuis le train, on voit d'abord la skyline, beaucoup d'immeubles sont hauts, pour tasser la population dense.
 
