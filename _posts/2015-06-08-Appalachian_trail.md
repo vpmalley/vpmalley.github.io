@@ -7,7 +7,7 @@ tags: voyage fr usa appalaches
 pic: https://farm1.static.flickr.com/548/18418905115_a5d8d07b7b.jpg
 picalt: panneau de direction sur le sentier des Appalaches
 ---
-Cette semaine, je me lance sur le mythique Sentier des Appalaches. Il fait partie de 2-3 sentiers transcontinentaux aussi populaire en Amérique du Nord que le chemin de Saint-Jacques-de-Compostelle en Europe. Le Sentier des Appalaches part près d'Atlanta en Géorgie et rejoint le Maine, à Katahdin, près de la frontière avec le Canada. Cela fait plus de 2000 miles, près de 3500km. Il y a aussi une bonne section au Canada à travers le Nouveau-Brunswick et le Québec, pour rejoindre le cap Gaspé, que je vais bientôt atteindre aussi.
+Cette semaine, je me lance sur le mythique Sentier des Appalaches. Il fait partie de 2-3 sentiers transcontinentaux aussi populaires en Amérique du Nord que le chemin de Saint-Jacques-de-Compostelle en Europe. Le Sentier des Appalaches part près d'Atlanta en Géorgie et rejoint le Maine, à Katahdin, près de la frontière avec le Canada. Cela fait plus de 2000 miles, près de 3500km. Il y a aussi une bonne section au Canada à travers le Nouveau-Brunswick et le Québec, pour rejoindre le cap Gaspé, que je vais bientôt atteindre aussi.
 
 !https://farm1.static.flickr.com/548/18418905115_a5d8d07b7b.jpg(Appalachian Trail direction)!
 
