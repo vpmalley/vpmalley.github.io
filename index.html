@@ -9,7 +9,6 @@ Voyages et choses curieuses
 <section class="container">
   <header class="major">
 	  <h2>Derniers récits</h2>
-		<span class="byline"></span>
   </header>
   <div class="row no-collapse-1">
   
@@ -21,6 +20,7 @@ Voyages et choses curieuses
     		<span class="byline">{{ post.date | date_to_string }}</span>
 				<p>{{ post.excerpt }}</p>
         </a>
+        <br>
       </section>
     {% endfor %}
     
