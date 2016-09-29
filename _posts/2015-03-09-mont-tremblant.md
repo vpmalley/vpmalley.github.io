@@ -18,7 +18,7 @@ Dans le parc le brouillard se dissipe pour laisser percer les rayons du soleil, 
 
 !=https://farm4.static.flickr.com/3937/15360098987_33163052e5_b.jpg(le lac Monroe et les forêts du parc, jusqu'à l'horizon)!
 
-Je suis seul la majorité de ma randonnée. Je suis arrivé plus tôt que les autres visiteurs et je dispose des beaux panoramas pour moi seul. En début d'après-midi il y a du monde sur la piste près du centre des visiteurs, mais je m'en éloigne assez vite. 
+Je suis seul la majorité de ma randonnée. Je suis arrivé plus tôt que les autres visiteurs et je dispose des beaux panoramas pour moi seul. En début d'après-midi il y a du monde sur la piste près du centre des visiteurs, mais je m'en éloigne assez vite.
 
 Lorsque je m'aventure dans les coins plus reculés du parc pour rejoindre mon refuge avant la nuit je me retrouve à nouveau seul. Le sentier est facile, il s'agit d'une piste sur la majorité de la distance.
 
@@ -26,7 +26,7 @@ Lorsque je m'aventure dans les coins plus reculés du parc pour rejoindre mon re
 
 Je trouve mon refuge, avec à l'intérieur un poêle, une table et des matelas sur une mezzanine. Je m'attends à y rencontrer d'autres randonneurs mais après la nuit tombée je me rends à l'évidence, ma seule compagnie pour la nuit sera la musaraigne qui a beaucoup grimpé et gratté la façade du refuge.
 
-Au petit matin après une nuit fraîche je me balade un peu plus en profondeur dans le parc. Je découvre plus de lacs recouvert d'une légère brume et leurs berges givrées.
+Au petit matin après une nuit fraîche je me balade un peu plus en profondeur dans le parc. Je découvre plus de lacs recouverts d'une légère brume et leurs berges givrées.
 
 !=https://farm6.static.flickr.com/5607/15546498501_4cb8a29564_b.jpg!
 
