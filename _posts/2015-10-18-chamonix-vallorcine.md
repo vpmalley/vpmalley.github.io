@@ -14,7 +14,7 @@ pic: https://farm6.staticflickr.com/5721/21686241134_3892896350_o_d.jpg
 On est arrivé à 3h du matin au nommé Chamoniard Volant, notre auberge pour cette première courte nuit avant le début de l'aventure.
 On sort de l'auberge le lendemain pour se retrouver dans une vallée bordée de deux massifs enneigés. On rejoint le début du sentier dans un hameau à 1300m et c'est parti pour deux jours dans les montagnes.
 
-![On sort de l'auberge le lendemain pour se retrouver dans une vallée bordée de deux massifs enneigés](https://farm1.staticflickr.com/764/22323919325_ffdbb6b7a1_o_d.jpg "On sort de l'auberge le lendemain pour se retrouver dans une vallée bordée de deux massifs enneigés")
+![on sort de l'auberge le lendemain pour se retrouver dans une vallée bordée de deux massifs enneigés](https://farm1.staticflickr.com/764/22323919325_ffdbb6b7a1_o_d.jpg "n sort de l'auberge le lendemain pour se retrouver dans une vallée bordée de deux massifs enneigés")
 
 On commence par un sentier dans la forêt, parsemés de très rares taches de neige. La sortie de la forêt, vers 1800m, nous fait découvrir les alpages de Loriaz, superbes en cette saison. Je suis toujours séduit par les couleurs des alpages, ce mélange de vert, de tons jaunes à marron, les buissons et l'herbe rase ponctués de rochers afleurant.
 Assez vite, on voit apparaître devant nous une collection de quelques cabanes en pierres alignées, collées les unes aux autres. Ce sera notre refuge, que l'on méritera chaudement si on s'aventure plus haut dans la montagne, probablement dans des passages enneigés.
