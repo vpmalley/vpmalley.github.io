@@ -16,7 +16,7 @@ Voilà mon premier jour sur le sentier des Appalaches. Et ce fut court. Ayant co
 Arrivé à ce premier stop, le refuge du ruisseau du castor (beaver brook shelter), j'avais déjà perdu pas mal confiance dans ma capacité à continuer ce soir jusqu'au refuge suivant. Sur place, un autre randonneur m'a déconseillé de tenter l'ascension du Mont Moosilauke, je me suis fait une raison. Je passe donc une première nuit ici après une ascension trop courte. Je vais devoir bombarder demain. En discutant avec les 4 randonneurs qui furent là ce soir, je me rends compte que si je marche un peu plus qu'eux, je suis beaucoup plus ambitieux, visant presque le double de distance quotidienne.
 Allez il est 20h et je vais me coucher de manière à me lever avec le soleil.
 
-![Réveil à l'aube dans le refuge]https://farm1.static.flickr.com/304/18230936150_33e5a7c109.jpg)
+![Réveil à l'aube dans le refuge](https://farm1.static.flickr.com/304/18230936150_33e5a7c109.jpg)
 
 Il a finalement fait bon cette nuit, même s'il me semble qu'il a plu un peu. Je craignais le froid comme les jours précédents, aggravé par l'altitude. Je décolle du refuge à 5h40 avec la satisfaction d'avoir réussi à me lever puis me met à gravir la pente vers le [Mont Moosilauke]( http://fr.m.wikipedia.org/wiki/Mont_Moosilauke ). La montée n'est pas si fraîche malgré la faible lumière du jour qui percé dans la forêt, mais elle est plutôt abrupte et avec beaucoup de rochers, souvent humides. Je sors de la forêt et découvre les alpages qui entourent le sommet.
 
