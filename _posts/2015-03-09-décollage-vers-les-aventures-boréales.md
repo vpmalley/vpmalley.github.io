@@ -14,4 +14,4 @@ Voilà que je vais maintenant avoir plein de temps à occuper avec des voyages. 
 
 Hier je suis allé une dernière fois au bord de mer prendre une dernière photo avec le soleil couchant sur les bateaux de la baie. Le faible bruit de la mer (il y a peu de vagues dans la Méditerranée) et le vent de la côte va sans doute me manquer. J'aimais venir flâner le long de l'eau, loin des plages et des touristes.
 
-!=https://farm4.staticflickr.com/3674/10860954955_bd5cefc939_b.jpg(Coucher de soleil sur la baie d'Antibes)!
+![Coucher de soleil sur la baie d'Antibes](https://farm4.staticflickr.com/3674/10860954955_bd5cefc939_b.jpg)

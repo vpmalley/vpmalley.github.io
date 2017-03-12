@@ -13,7 +13,7 @@ Une fois dans la vieille ville, on assiste une intense industrie touristique. An
 
 Les premiers sites touristiques, une fois débarqués du tramway, qui apparaissent à gauche et à droite sont les rivales et tout autant impressionnantes [basilique Ste Sophie][hagiasophia] et [mosquée du Sultan Ahmet][bluemosque] (la mosquée bleue).
 
-!=https://farm4.staticflickr.com/3952/15430368048_b2013d84dd_z_d.jpg(dans le palais Topkapi)! !=https://farm4.staticflickr.com/3952/15430380988_79ee493934_z_d.jpg(la tour Galata depuis le palais Topkapi)!
+![dans le palais Topkapi](https://farm4.staticflickr.com/3952/15430368048_b2013d84dd_z_d.jpg) ![la tour Galata depuis le palais Topkapi](https://farm4.staticflickr.com/3952/15430380988_79ee493934_z_d.jpg)
 
 Le [Palais de Topkapi][topkapi], ancienne résidence du Sultan, est un musée contenant de nombreuses belles pièces ottomanes. Le palais est réparti sur plusieurs bâtiments autour de plusieurs cours.
 
@@ -21,13 +21,13 @@ Je suis surtout curieux de la transformation des lieux de culte chrétiens en mo
 
 L'église Ste Sophie a été sécularisée et est devenue un musée en 1934, a priori dans le courant de sécularisme d'Atatürk. Elle est sombre comme beaucoup d'églises (avec des couleurs variant de l'or au brun foncé), est bien décorée sans être autant chargée que les églises orthodoxes bourrées d'icônes. Ste Sophie est litéralement gigantesque, le dôme notamment est immense. J'apprécie le mélange des styles chrétien et musulman. Certaines mosaïques, représentant souvent l'empereur romain donnant des fonds pour l'Eglise, sont extrêmement bien conservées/restaurées.
 
-!=https://farm8.staticflickr.com/7563/15713650714_d543447cfa_z_d.jpg(l'intérieur de la basilique Ste-Sophie)! !=https://farm4.staticflickr.com/3933/15613830501_bcf03f5ae7_z_d.jpg(l'intérieur de la mosquée du Sultan Ahmet)!
+![l'intérieur de la basilique Ste-Sophie](https://farm8.staticflickr.com/7563/15713650714_d543447cfa_z_d.jpg) ![l'intérieur de la mosquée du Sultan Ahmet](https://farm4.staticflickr.com/3933/15613830501_bcf03f5ae7_z_d.jpg)
 
 En traversant le square Sultanahmet depuis Ste Sophie, on se retrouve en face de la mosquée dite "Bleue", officiellement mosquée du Sultan Ahmet. Elle a été construite pour démontrer que les Ottomans étaient autant capables de bâtir des édifices majestueux que la Basilique Ste Sophie des Chrétiens. La mosquée du Sultan Ahmet offre des caractéristiques imposantes avec surtout ses 6 minarets. Cela a coûté au Sultan de financer un septième minaret dans une mosquée de la Mecque, qui doit être le lieu avec le plus de minarets. A l'intérieur, les décorations sont impressionnantes: en particulier la calligraphie en de nombreux endroits et l'usage de multiples couleurs (notamment bleu, vert, rouge, blanc) rendent le bâtiment moins austère que Ste Sophie (très sombre et aux couleurs neutres). Je préfère cette clarté et ces couleurs joyeuses, la calligraphie aussi, par rapport à Ste Sophie.
 
 On a finalement peu exploré les autres quartiers de la ville. Notre vision de la Turquie aura été relativement limitée aux quartiers touristiques, on a à peine vu quelques autres rues d'Antalya et d'Istanbul. Mais le peu que l'on a vu ce sont des quartiers animés.
 
-!=https://farm8.staticflickr.com/7479/16335159682_72bb7acec4_z_d.jpg(la mosquée bleue au bout du square Sultanahmet)! !=https://farm4.staticflickr.com/3944/15429844209_90c74750e3_z_d.jpg(la nouvelle mosquée)!
+![la mosquée bleue au bout du square Sultanahmet](https://farm8.staticflickr.com/7479/16335159682_72bb7acec4_z_d.jpg) ![la nouvelle mosquée](https://farm4.staticflickr.com/3944/15429844209_90c74750e3_z_d.jpg)
 
 Une expérience qui valait le coup fut le [Grand Bazaar][bazar]. Tel les souks et autres marchés du Moyen Orient, il s'agit de rues couvertes remplies de marchands de souvenirs en tout genre. Je m'attendais à voir plutôt un marché aux vêtements, aux épices et autres choses du quotidien. Il s'agit quasiment uniquement de babioles pour touristes, de luminaires, tapis, bols et assiettes, ... J'aime surtout naviguer parmi les arcanes du marchés, dont on voit à peine le bout, les arches décorées qui encadrent notre balade. Je m'attendais à des couloirs bien plus bondés où l'on se fraie un chemin parmi la foule et les babioles empilées n'importe comment. Rien de tout ça, les étals sont bien ordonnés, presque rien ne dépasse de chaque boutique, il n'y a pas tant de monde que ça.
 
@@ -37,7 +37,7 @@ On a choisi de faire une balade en bateau, la dernière de ces croisières que l
 
 Voila je crois avoir un peu fait le tour de l'Istanbul que l'on a vu, un fragment de ce qu'elle a à offrir, on n'a pas visité son côté oriental ni tout un tas d'autres choses probablement intéressantes.
 
-!=https://farm9.staticflickr.com/8642/16310134936_240d3eaa29_z_d.jpg(les domes de l'église Ste-Sophie et de la mosquée du Sultan Ahmet)! !=https://farm8.staticflickr.com/7509/16149902689_a2a5fa0c10_z_d.jpg(bains ottomans de l'église Ste-Sophie)!
+![les domes de l'église Ste-Sophie et de la mosquée du Sultan Ahmet](https://farm9.staticflickr.com/8642/16310134936_240d3eaa29_z_d.jpg) ![bains ottomans de l'église Ste-Sophie](https://farm8.staticflickr.com/7509/16149902689_a2a5fa0c10_z_d.jpg)
 
 ## Coin cuisine
 
@@ -61,6 +61,3 @@ Mon meilleur repas à Istanbul (dans le restaurant [Mitani]) fut de l'agneau ave
 [Mitani]: http://www.tripadvisor.ca/Restaurant_Review-g293974-d2055746-Reviews-Mitani_Cafe-Istanbul.html "page TripAdvisor du restaurant"
 [moussaka]: http://fr.wikipedia.org/wiki/Moussaka "plat d'aubergines et de viande hachée de mouton"
 [kofte]: http://fr.wikipedia.org/wiki/Kefta "les kofte ou kefta sont des boulettes de viande"
-
-
-
