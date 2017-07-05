@@ -3,12 +3,12 @@ tags:
 - voyage
 - fr
 - tunisie
-picalt: "Désert rocheux enneigé"
+picalt: "Dromadaier contemplateur"
 title: Aux portes du désert
 excerpt: Quelques jours dans le Sud Tunisien
 layout: post
 travelDate: 2017-04-18
-pic: https://farm6.staticflickr.com/5721/21686241134_3892896350_o_d.jpg
+pic: https://farm3.staticflickr.com/2828/33491696874_1bc053a4dc_m_d.jpg
 ---
 
 Ce voyage est juste magnifique. Les paysages que l'on traverse me laissent rêveur. Nous avons laissé Tozeur et sa petite médina de briques aux murs sculptés de symboles pour d'abord grimper dans les oasis de montagne avoisinantes, des villages bordés d'une palmeraie. Celle de Chebika est comme la corbeille de Nefta, on y trouve dans une cuvette une palmeraie particulièrement luxuriante, d'un vert intense, entourée cette fois-ci de rochers sans la moindre végétation. L'ocre minéral tranche avec le vert des palmiers. Un cours d'eau ruisselle dans le fond de la cuvette, à la couleur turquoise. Il y a aussi un village en ruines sur un versant de la montagne, abandonné lors de sa modernisation: le gouvernement a préféré faire construire un nouveau village en bas plutôt que d'équiper l'ancien avec eau courante et électricité.
