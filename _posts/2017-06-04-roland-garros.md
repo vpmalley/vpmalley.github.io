@@ -4,7 +4,12 @@ layout: post
 excerpt : Roland-Garros
 pic: https://farm5.staticflickr.com/4226/34906813992_c5309b64a9_k_d.jpg
 picalt : Court numéro 1 - Nishikori conte Chung
-tags : paris tennis roland-garros fr
+tags:
+- voyage
+- fr
+- paris
+- tennis
+- roland-garros
 ---
 
 Ce weekend fut beau et intense. Je ne savais qu'attendre de Roland-Garros. J'y ai trouvé une ambiance intimiste. Dans le court numéro 1, mais surtout dans les autres, le 2 ou le 3, on se croirait en tout petit comité, privilégiés. L'arbitre demande à un spectateur parmi les centaines présents de se dépêcher de s'asseoir pour ne pas perturber le match. Le silence se fait, le joueur qui sert fait rebondir la balle et l'on entend que ce rebond qui résonne dans l'arène. Ce silence est respecté presque autant que les spectateurs d'un auditorium qui se retiennent de tousser pendant que les oeuvres sont jouées. On entend tous les sons du match: les balles qui rebondissent, l'impact de la raquette sur la balle, les joueurs qui dérapent, qui laissent échapper un cri à l'impact, qui ragent, qui râlent contre l'arbitre, les arbitres de fond de court ou de lignes qui crient à la faute, le bip du filet touché. Cela fait partie du cérémoniel.

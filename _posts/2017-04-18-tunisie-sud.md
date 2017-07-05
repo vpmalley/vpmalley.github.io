@@ -47,12 +47,12 @@ On se retrouve entre des collines rocheuses qui rappellent le Grand Canyon. La r
 
 Ensuite la plus belle partie de la journée fut la route entre Ghomrassen et Douiret, pour une première partie entre des montagnes ocres qui ressemblent au Grand Canyon ou aux rochers surmontés d'une couronne de Monument Valley, puis les plaines verdoyantes étendues entourées de collines, le tout éclairé par un soleil chaud rasant. J'oublie aussi le lit de rivière qui est devenu une rivière de palmiers. Et le passage au Ksar El Ferch et ses chambres à la forme surprenante, le toit arrondi. Et son café vide avec une boîte aux lettres, au milieu du Ksar. Et enfin la vieille ville de Chenini, ville troglodyte accrochée au sommet, dominant la vallée.
 
-![](https://farm5.staticflickr.com/4188/33505718193_0029fb8c16_k_d.jpg "")
-![](https://farm3.staticflickr.com/2859/34184769731_c25c86d949_k_d.jpg "")
+![](https://farm5.staticflickr.com/4188/33505718193_0029fb8c16_k_d.jpg " ")
+![](https://farm3.staticflickr.com/2859/34184769731_c25c86d949_k_d.jpg " ")
 
 On arrive à la vieille ville de Douiret juste avant la nuit. Sur le versant de la colline, le gîte où l'on passe la nuit est creusé dans la roche. Les chambres troglodytes sont séparées de l'entrée du gîte par une cour, un bâtiment sur deux étages construit en roche aussi. Après avoir contemplé les étoiles dans cet environnement sans lumière, du haut de notre citadelle troglodyte, devant la mosquée au palmier blanche, on prend notre repos bien mérité.
 
-![](https://farm3.staticflickr.com/2860/33330080384_11d2ede3d0_k_d.jpg "")
+![](https://farm3.staticflickr.com/2860/33330080384_11d2ede3d0_k_d.jpg " ")
 
 Nous voilà déjà à notre dernier jour dans le Sud. On visite le village troglodyte de Douiret, en se faufilant d'abord dans les salles fraîches sous la roche de la mosquée au palmier vide, puis entre les maisons abandonnées, le long d'une corniche étroite et caillouteuse. On découvre un paysage ocre, un versant de bâtiments troglodytes qui se distinguent à peine de la colline, avec un palmier posé au centre d'un ensemble de bâtiments, dont peut-être la mosquée au figuier.
 On reprend la route pour traverser quelques villages près de Tataouine ponctués de barrages érigés quelques jours plus tôt pour un mouvement social. L'entrée de la ville est toujours gardée par une dizaine de militants qui laissent passer les automobilistes.
@@ -60,18 +60,18 @@ On reprend la route pour traverser quelques villages près de Tataouine ponctué
 On rejoint un dernier village, Ksar Ouled Soltane, un autre ksar en particulièrement bon état. Les ghorfas, pièces qui servaient à stocker céréales, bijoux et autres biens d'une famille quand les villageois partaient dans le désert pour quelques temps, sont empilées sur 2 à 3 étages, les plus hautes ghorfas sont accessibles grâce à des escaliers qui tiennent encore bien le coup. L'une des façades de ce ksar est connue pour être reproduite sur les billets de 20 dinars.
 On redescend de notre point le plus au sud du voyage et c'est parti pour une longue après-midi de route pour rejoindre au nord Mahdia, en bord de mer.
 
-![](https://farm3.staticflickr.com/2887/34277098275_cbb62bef4c_k_d.jpg "")
+![](https://farm3.staticflickr.com/2887/34277098275_cbb62bef4c_k_d.jpg " ")
 
 En ce dernier matin on se réveille encore une fois à cause de la lumière du jour. On commence par rejoindre la petite médina de Mahdia. On recherche de quoi manger, on se perd un peu et on tombe un peu par hasard, et surtout avec bonheur, sur la recherchée place du Caire, une petite place piétonne, sous les arbres, dense de chaises et entourées de cafés. L'un d'entre eux nous sert un express, un direct, un thé à la menthe, des tranches de cake et un friand à la crème chocolat-noisette très chaud. Le matin encore frais et très calme - seule une autre table est animée - est des plus agréables. On reviendrait à Mahdia tous les weekends pour apprécier ce petit déjeuner.
 
-![](https://farm3.staticflickr.com/2839/34229509266_b87c2a61e9_z_d.jpg "")
+![](https://farm3.staticflickr.com/2839/34229509266_b87c2a61e9_z_d.jpg " ")
 
 On part à la découverte du cimetière marin et du port punique de la ville, le tout dans le vent du bord de mer. Les barques des pêcheurs qui se laissent bercer par le courant n'attendent plus qu'un peintre pour venir immortaliser la scène.
 
-![](https://farm5.staticflickr.com/4192/33428095494_4c034867d1_k_d.jpg "")
+![](https://farm5.staticflickr.com/4192/33428095494_4c034867d1_k_d.jpg " ")
 
 On termine notre balade en errant dans les rues de la petite ville, à admirer les immeubles blancs aux portes et volets bleus. Le nord de la Tunisie et ses belles couleurs ensoleillées, sans la foule de Tunis.
 
-![](https://farm3.staticflickr.com/2833/34112661752_c257840946_k_d.jpg "")
+![](https://farm3.staticflickr.com/2833/34112661752_c257840946_k_d.jpg " ")
 
 Il faut quitter ce petit paradis et on retrouve l'arène d'El Jem avant de reprendre la route puis l'avion pour rentrer à la maison, plus fraîche mais quand même on l'espère, ensoleillée.
