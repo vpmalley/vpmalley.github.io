@@ -45,30 +45,29 @@ var map = new mapboxgl.Map({
 
 map.on('load', function () {
 
+    var positions = [];
     db.collection("my-steps").get().then((querySnapshot) => {
       querySnapshot.forEach((doc) => {
-          console.log(`lala ${doc.id} => ${doc.data()}`);
-          map.addLayer({
-              "id": "points",
-              "type": "symbol",
-              "source": {
-                  "type": "geojson",
-                  "data": {
-                      "type": "FeatureCollection",
-                      "features": [
-                          doc.data()
-                      ]
-                  }
-              },
-              "layout": {
-                  "icon-image": "{icon}-11",
-                  "text-field": "{title}",
-                  "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-                  "text-offset": [0, 0.6],
-                  "text-anchor": "top"
-              }
-          });
+        positions.push(doc.data());
       });
+    });
+    map.addLayer({
+        "id": "points",
+        "type": "symbol",
+        "source": {
+            "type": "geojson",
+            "data": {
+                "type": "FeatureCollection",
+                "features": positions
+            }
+        },
+        "layout": {
+            "icon-image": "{icon}-11",
+            "text-field": "{title}",
+            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+            "text-offset": [0, 0.6],
+            "text-anchor": "top"
+        }
     });
 
 });
