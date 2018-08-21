@@ -51,25 +51,25 @@ map.on('load', function () {
         positions.push(doc.data());
         console.log("Document data:", doc.data());
       });
-    });
-    console.log("Collection:", positions);
-    map.addLayer({
-        "id": "points",
-        "type": "symbol",
-        "source": {
-            "type": "geojson",
-            "data": {
-                "type": "FeatureCollection",
-                "features": positions
-            }
-        },
-        "layout": {
-            "icon-image": "{icon}-11",
-            "text-field": "{title}",
-            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-            "text-offset": [0, 0.6],
-            "text-anchor": "top"
-        }
+      console.log("Collection:", positions);
+      map.addLayer({
+          "id": "points",
+          "type": "symbol",
+          "source": {
+              "type": "geojson",
+              "data": {
+                  "type": "FeatureCollection",
+                  "features": positions
+              }
+          },
+          "layout": {
+              "icon-image": "{icon}-11",
+              "text-field": "{title}",
+              "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+              "text-offset": [0, 0.6],
+              "text-anchor": "top"
+          }
+      });
     });
 
 });
