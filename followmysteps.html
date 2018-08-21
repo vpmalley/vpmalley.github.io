@@ -28,6 +28,7 @@
   };
   firebase.initializeApp(config);
 
+  firebase.auth().signInAnonymously();
   var db = firebase.firestore();
 </script>
 
