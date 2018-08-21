@@ -49,8 +49,10 @@ map.on('load', function () {
     db.collection("my-steps").get().then((querySnapshot) => {
       querySnapshot.forEach((doc) => {
         positions.push(doc.data());
+        console.log("Document data:", doc.data());
       });
     });
+    console.log("Collection:", positions);
     map.addLayer({
         "id": "points",
         "type": "symbol",
