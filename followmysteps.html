@@ -45,37 +45,29 @@ map.on('load', function () {
     db.collection("my-steps").get().then((querySnapshot) => {
       querySnapshot.forEach((doc) => {
           console.log(`lala ${doc.id} => ${doc.data()}`);
+          map.addLayer({
+              "id": "points",
+              "type": "symbol",
+              "source": {
+                  "type": "geojson",
+                  "data": {
+                      "type": "FeatureCollection",
+                      "features": [
+                          doc.data()
+                      ]
+                  }
+              },
+              "layout": {
+                  "icon-image": "{icon}-15",
+                  "text-field": "{title}",
+                  "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+                  "text-offset": [0, 0.6],
+                  "text-anchor": "top"
+              }
+          });
       });
     });
 
-    map.addLayer({
-        "id": "points",
-        "type": "symbol",
-        "source": {
-            "type": "geojson",
-            "data": {
-                "type": "FeatureCollection",
-                "features": [{
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [174.8766, -36.8417]
-                    },
-                    "properties": {
-                        "title": "Auckland",
-                        "icon": "airport"
-                    }
-                }]
-            }
-        },
-        "layout": {
-            "icon-image": "{icon}-15",
-            "text-field": "{title}",
-            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-            "text-offset": [0, 0.6],
-            "text-anchor": "top"
-        }
-    });
 });
 </script>
 
