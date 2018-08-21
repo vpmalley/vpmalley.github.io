@@ -14,6 +14,23 @@
 <body>
 
 <div id='map'></div>
+
+<script src="https://www.gstatic.com/firebasejs/5.4.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBA1VibfTr5KOl9x6HgJg00hkHEx5Z-XFo",
+    authDomain: "follow-my-steps-585ac.firebaseapp.com",
+    databaseURL: "https://follow-my-steps-585ac.firebaseio.com",
+    projectId: "follow-my-steps-585ac",
+    storageBucket: "follow-my-steps-585ac.appspot.com",
+    messagingSenderId: "712039018409"
+  };
+  firebase.initializeApp(config);
+
+  var db = firebase.firestore();
+</script>
+
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoidmluY2V0cmF2ZWxsZXIiLCJhIjoiY2psMnVhMnpnMW9weDNrcXJla3UycGdycyJ9.l3R_I6EyVAxFvghBMOHmRQ';
 var map = new mapboxgl.Map({
@@ -24,6 +41,12 @@ var map = new mapboxgl.Map({
 });
 
 map.on('load', function () {
+
+    db.collection("my-steps").get().then((querySnapshot) => {
+      querySnapshot.forEach((doc) => {
+          console.log(`lala ${doc.id} => ${doc.data()}`);
+      });
+    });
 
     map.addLayer({
         "id": "points",
