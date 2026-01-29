@@ -15,7 +15,7 @@ Voyages et choses curieuses
     {% for post in site.tags.voyage %}
       <section class="4u">
         <a href="{{ post.url }}" class="image feature" >
-            <img src="{{ post.pic }}" alt="{{ post.picalt }}">
+            <img src="{{ post.pic | replace: '_z', '_q' }}" data-src="{{ post.pic }}" class="progressive-load" alt="{{ post.picalt }}">
         <h2>{{ post.title }}</h2>
     		<span class="byline">{{ post.date | date_to_string }}</span>
 				<p>{{ post.excerpt }}</p>
@@ -53,7 +53,7 @@ Voyages et choses curieuses
     
     <section class="4u">
       <a href="https://www.flickr.com/photos/107938954@N05" class="image feature">
-        <img src="https://farm8.staticflickr.com/7315/12155622306_13654639bf_z_d.jpg" alt="Manarola, one of the colorful Cinque Terre villages">
+        <img src="https://farm8.staticflickr.com/7315/12155622306_13654639bf_q_d.jpg" data-src="https://farm8.staticflickr.com/7315/12155622306_13654639bf_z_d.jpg" class="progressive-load" alt="Manarola, one of the colorful Cinque Terre villages">
       <h2>Voyages en images</h2>
       </a>
     </section>

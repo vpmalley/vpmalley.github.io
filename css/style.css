@@ -693,5 +693,45 @@
 
 		#footer a {
 			color: inherit;
-		text-decoration: underline;
+			text-decoration: underline;
 		}
+
+/* Grid Alignment Improvements */
+
+	.row.no-collapse-1 {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.row.no-collapse-1 > .\34 u {
+		float: none;
+		display: flex;
+	}
+
+	.row.no-collapse-1 > .\34 u > a.image.feature {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		flex: 1;
+	}
+
+	.row.no-collapse-1 > .\34 u > a.image.feature img {
+		height: 200px;
+		object-fit: cover;
+	}
+
+	.row.no-collapse-1 > .\34 u > a.image.feature p {
+		flex: 1;
+	}
+
+/* Progressive Loading Effect */
+
+	.progressive-load {
+		filter: blur(10px);
+		transition: filter 0.5s ease-in-out;
+		background-color: #f0f0f0; /* Placeholder color */
+	}
+
+	.progressive-load.loaded {
+		filter: blur(0);
+	}
