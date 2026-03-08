@@ -703,25 +703,55 @@
 		flex-wrap: wrap;
 	}
 
-	.row.no-collapse-1 > .\34 u {
+	.row.no-collapse-1 > .\34 u,
+	.row.no-collapse-1 > .\36 u {
 		float: none;
 		display: flex;
 	}
 
-	.row.no-collapse-1 > .\34 u > a.image.feature {
+	.row.no-collapse-1 > .\34 u > a.image.feature,
+	.row.no-collapse-1 > .\36 u > a.image.feature,
+	.row.no-collapse-1 > .\36 u > div.image.feature {
 		display: flex;
 		flex-direction: column;
 		width: 100%;
 		flex: 1;
 	}
 
-	.row.no-collapse-1 > .\34 u > a.image.feature img {
+	.row.no-collapse-1 > .\34 u > a.image.feature img,
+	.row.no-collapse-1 > .\36 u > a.image.feature img {
 		height: 200px;
 		object-fit: cover;
 	}
 
-	.row.no-collapse-1 > .\34 u > a.image.feature p {
+	.row.no-collapse-1 > .\34 u > a.image.feature p,
+	.row.no-collapse-1 > .\36 u > a.image.feature p,
+	.row.no-collapse-1 > .\36 u > div.image.feature p {
 		flex: 1;
+	}
+
+	.two-column-layout .image.feature {
+		text-align: left;
+	}
+
+	.two-column-layout .image.feature p {
+		font-size: 0.8em;
+	}
+
+	.video-container {
+		position: relative;
+		padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+		height: 0;
+		overflow: hidden;
+		margin-bottom: 2em;
+	}
+
+	.video-container iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
 
 /* Progressive Loading Effect */
