@@ -1,0 +1,29 @@
+---
+title: Videos
+type: videos
+layout: default
+---
+
+<section class="container">
+  <header class="major">
+    <h2>Videos</h2>
+  </header>
+  <div class="row no-collapse-2">
+
+    {% for post in site.tags.video %}
+    <section class="6u">
+      <a href="{{ post.video }}" class="image feature">
+        <video controls width="100%" height="auto">
+          <source src="{{ post.video }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <h2 style="text-align: left;">{{ post.title }}</h2>
+        <span class="byline" style="text-align: left;">{{ post.date | date_to_string }}</span>
+        <p style="text-align: left; font-size: 0.9em;">{{ post.excerpt }}</p>
+      </a>
+      <br>
+    </section>
+    {% endfor %}
+
+  </div>
+</section>
